@@ -1,0 +1,28 @@
+.col-s-1{
+    width: 77px;
+}
+
+.col-s-2{
+    width: 164px;
+}
+
+.col-s-3{
+    width: 251px;
+}
+
+.col-s-4{
+    width: 338px;
+}
+
+.grid_center{
+    margin: 0 auto;
+}
+
+.flex_container{
+    display: flex;
+}
+
+.container_header{
+    justify-content: space-between;
+}
+
